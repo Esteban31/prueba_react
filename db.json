@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": "5",
+      "nombre": "suzuki",
+      "referencia": "654",
+      "precio": "546452311",
+      "peso": "47",
+      "categoria": "efe",
+      "stock": "6",
+      "fecha_creacion": "2020-4-7"
+    },
+    {
+      "id": "6",
+      "nombre": "armando",
+      "referencia": "6598",
+      "precio": "854",
+      "peso": "75",
+      "categoria": "motomo",
+      "stock": "7",
+      "fecha_creacion": "2020-4-7"
+    },
+    {
+      "id": "231123",
+      "nombre": "dasdsad",
+      "referencia": "asdads",
+      "precio": "313",
+      "peso": "123123",
+      "categoria": "sdasd",
+      "stock": "33",
+      "fecha_creacion": "2020-4-7"
+    }
+  ]
+}
